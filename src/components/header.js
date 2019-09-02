@@ -2,7 +2,7 @@ import React from "react";
 
 function Header() {
     return (
-        <header>Header</header>
+        <header>Gerenciador de Projetos</header>
     );
 }
 
