@@ -1,9 +1,10 @@
 import React from "react";
+import Cards from "./cards";
 
 function Section(props) {
     return (
         <section className="content">
-            f
+            <Cards header="Projeto 01" content="Lista de Tarefas"/>
         </section>
     )
 }

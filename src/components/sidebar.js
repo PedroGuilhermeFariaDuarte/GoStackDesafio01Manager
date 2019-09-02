@@ -4,11 +4,11 @@ function Sidebar (props) {
     return (
         <nav className="sidebar">
             <ul>
-                <li>Item 1</li>
-                <li>Item 1</li>
-                <li>Item 1</li>
-                <li>Item 1</li>
-                <li>Item 1</li>
+                <li>Listar Projetos</li>
+                <li>Criar Projetos</li>
+                <li>Atualizar Projetos</li>
+                <li>Propocuar Projetos</li>
+                <li>Excluir Projetos</li>
             </ul>
         </nav>
     )
