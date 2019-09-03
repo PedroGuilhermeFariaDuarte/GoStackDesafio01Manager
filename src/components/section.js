@@ -4,6 +4,9 @@ import Cards from "./cards";
 function Section(props) {
     return (
         <section className="content">
+            <div className="desc_section">
+                {props.message}
+            </div>
             <Cards header="Projeto 01" content="Lista de Tarefas"/>
             <Cards header="Projeto 02" content="Lista de Tarefas"/>
             <Cards header="Projeto 03" content="Lista de Tarefas"/>
