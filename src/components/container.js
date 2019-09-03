@@ -6,7 +6,7 @@ function Container(props) {
     return (
         <div className="container">
             <Sidebar/>
-            <Section/>
+            <Section message="Listagem Geral"/>
         </div>
     )
 }
